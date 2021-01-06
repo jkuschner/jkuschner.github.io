@@ -1,7 +1,6 @@
 # Josh's GitHub Pages Website
 
-Hi, my name is Joshua Kuschner, and this website contains a description of who I am as a programmer and as a person. If you want some more detail, check out my other [website](jkuschner.dev).
-
+Hi, my name is Joshua Kuschner, and this website contains a description of who I am as a programmer and as a person. If you want some more detail, check out my other [website](https://jkuschner.dev/)
 ## Programming
 
 I initally began my programming adventure in high school when I took AP Computer Science. We did all of our progamming in **Java** for that class, and the only thing we did whole year was solve coding puzzles. Since it was an intro level class, I thought that it was pretty easy. Also, since it was my only exposure to computer science, I naturally thought that all of it was going to be easy.
